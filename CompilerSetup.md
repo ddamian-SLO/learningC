@@ -1,7 +1,6 @@
 # Setting up the compiler for C
 
-Since it's been a while since I've used something that required a compiler (mostly been using PowerShell and Python which are relatively 
-free-form), I had to research and set it up myself. 
+Since it's been a while since I've used something that required me to build a compiler that wasn't already in the IDE (mostly been using PowerShell and Python which are relatively free-form), I had to research and set it up myself. 
 
 ## Tools used
 I am using the latest version of Netbeans IDE (11.0) available [here.](https://netbeans.apache.org/download/nb110/nb110.html)
